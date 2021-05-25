@@ -1,4 +1,5 @@
 package LinkedList;
+
 public class ReverseLinkedListGroup {
 	static Node head;
     static class Node{
