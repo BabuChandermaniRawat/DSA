@@ -1,3 +1,4 @@
+package LinkedList;
 
 public class ReverseLinkedList {
 	static Node head;
